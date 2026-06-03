@@ -41,7 +41,7 @@ Pima Indians Diabetes Dataset
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Jupyter Notebook
+* google colab
 
 ## Methodology
 
@@ -75,13 +75,9 @@ Pima Indians Diabetes Dataset
 
 ## Repository Contents
 
-* synthetic_data_generation.ipynb
-* Synthetic_Data_Generation_Report.docx
-* Synthetic_Data_Generation_Presentation.pptx
+synthetic_data_generation.ipynb
+Synthetic_Data_Generation_Report.docx
+Synthetic_Data_Generation_Presentation.pptx
+diabetes.csv (Pima Indians Diabetes Dataset)
+images/ (project visualizations, exploratory analysis plots, and model evaluation screenshots)
 
-## Future Work
-
-* CTGAN-based synthetic data generation
-* Diffusion models for tabular data
-* Statistical similarity metrics
-* Advanced privacy evaluation methods
