@@ -75,8 +75,6 @@ Pima Indians Diabetes Dataset
 
 ## Repository Contents
 
-## Repository Contents
-
 * `synthetic_data_generation.ipynb`
 * `Synthetic_Data_Generation_Report.docx`
 * `Synthetic_Data_Generation_Presentation.pptx`
