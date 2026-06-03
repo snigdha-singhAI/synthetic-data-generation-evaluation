@@ -75,9 +75,12 @@ Pima Indians Diabetes Dataset
 
 ## Repository Contents
 
-synthetic_data_generation.ipynb
-Synthetic_Data_Generation_Report.docx
-Synthetic_Data_Generation_Presentation.pptx
-diabetes.csv (Pima Indians Diabetes Dataset)
-images/ (project visualizations, exploratory analysis plots, and model evaluation screenshots)
+## Repository Contents
+
+* `synthetic_data_generation.ipynb`
+* `Synthetic_Data_Generation_Report.docx`
+* `Synthetic_Data_Generation_Presentation.pptx`
+* `diabetes.csv`
+* `images/`
+
 
