@@ -66,6 +66,37 @@ Pima Indians Diabetes Dataset
 | Logistic Regression | 69.48%    | 70.13%         |
 | Random Forest       | 77.92%    | 67.53%         |
 
+## Project Visualizations
+
+### Data Distribution Analysis
+
+![Histograms](images/histograms.png)
+
+### Outlier Detection
+
+![Boxplot Outlier Detection](images/Boxplot%20outlier%20detection.png)
+
+### Correlation Analysis
+
+![Correlation Heatmap](images/Correlation%20heatmap.png)
+
+### Glucose vs BMI Relationship
+
+![Glucose vs BMI Scatter](images/Glucose%20vs%20BMI%20Scatter.png)
+
+### Real vs Synthetic Data Comparison
+
+![Real vs Synthetic Distribution Comparison](images/Real%20vs%20Synthetic%20distribution%20comparison.png)
+
+### Model Performance Comparison
+
+![Accuracy Comparison](images/Accuracy%20comparison.png)
+
+### Classification Evaluation
+
+![Confusion Matrix](images/Confusion%20matrix.png)
+
+
 ## Key Findings
 
 * Logistic Regression performed almost identically on synthetic and real data.
